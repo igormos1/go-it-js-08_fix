@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://igormos1.github.io/goit-js-8/",
+  "homepage": "https://igormos1.github.io/go-it-js-08_fix/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-8/"
+    "build": "parcel build src/*.html --public-url /go-it-js-08_fix/"
   },
   "repository": {
     "type": "git",
